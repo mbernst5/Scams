@@ -2,7 +2,7 @@
 /* CSS Document */
 div, svg, img{
 	transition: .1s;
-	background-color: white;}
+}
 body{
 	position: relative;
 	width: auto;
