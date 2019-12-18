@@ -112,6 +112,7 @@ path{
 	top: 0;
 	background-image: url("images/back.png");
 	  background-repeat: no-repeat, repeat;
+	background-color: white;
 	background-size:cover;
 	z-index: 3;
 	height: 100%;
